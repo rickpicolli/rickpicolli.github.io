@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: '/hwvue/'
+    publicPath: '/rickpicolli.github.io/'
   }
